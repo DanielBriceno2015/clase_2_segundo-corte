@@ -57,7 +57,7 @@ Matriz diagonal que contiene las masas del sistema, usada para calcular las acel
 🔑 **Vibración**
 Movimiento oscilatorio de una masa alrededor de una posición de equilibrio, característico en sistemas con resortes.
 
-##4. Sistemas mecanicos acoplados y verticales
+## 4. Sistemas mecanicos acoplados y verticales
 
 Los elementos básicos de todo sistema mecánico son la masa, el resorte y el amortiguador. El estudio del movimiento en sistemas mecánicos se corresponde con el análisis de sistemas dinámicos.
 
@@ -81,7 +81,7 @@ El modelamiento de sistemas acoplados consiste en representar y analizar sistema
 Figura 2.  sistemas acoplados
 
 
- ## 6. Ejercicios 
+ ## 5. Ejercicios 
  
  📚 Hallar la funcion de transferencia 
 
