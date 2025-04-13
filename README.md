@@ -106,7 +106,7 @@ $m_2 \ddot{x}_2 + b_2 \dot{x}_2 + k_2 x_2 - b_2 \dot{x}_1 - k_2 x_1 = 0$
 
 ### Ley de newton
 
-% Ecuación diferencial del sistema
+### Ecuación diferencial del sistema
 $M \ddot{x}(t) + B \dot{x}(t) + K x(t) = f(t)$
 
 
