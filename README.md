@@ -76,7 +76,7 @@ Figura 1. sistemas verticales
 ### 4.2 sistemas acoplados
 El modelamiento de sistemas acoplados consiste en representar y analizar sistemas mecánicos en los que dos o más elementos (como masas) están conectados de forma que el movimiento de uno influye en el otro. Estas conexiones se dan a través de resortes, amortiguadores u otros elementos, y el objetivo es describir el sistema mediante ecuaciones diferenciales que predicen su comportamiento dinámico.
 
-![Logo](ChatGPT Image 13 abr 2025, 03_27_14 p.m..png)
+![Image](https://github.com/user-attachments/assets/322496cb-7419-4703-82cd-83c529b05bf3)
 
 Figura 2.  sistemas acoplados
 
