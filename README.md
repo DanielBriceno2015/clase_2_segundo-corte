@@ -172,8 +172,10 @@ m
 ​
 ### Ley de newton
 
-$m_1 \ddot{x}_1 + (b_1 + b_2) \dot{x}_1 + (k_1 + k_2) x_1 - b_2 \dot{x}_2 - k_2 x_2 = u(t)$
-
+$\frac{X_2(s)}{U(s)} = \frac{b_2 s + k_2}{
+\left( m_1 s^2 + (b_1 + b_2)s + k_1 + k_2 \right)
+\left( m_2 s^2 + b_2 s + k_2 \right)
+- \left( b_2 s + k_2 \right)^2$
  ## 6. Conclusion
 
 El modelamiento de sistemas mecánicos mediante ecuaciones diferenciales es una herramienta fundamental en ingeniería y física para describir con precisión el comportamiento dinámico de estructuras y mecanismos. Al analizar fuerzas como la masa, el amortiguamiento y la rigidez, se obtienen ecuaciones que reflejan la relación entre entradas (como fuerzas aplicadas) y salidas (como desplazamientos o velocidades).
