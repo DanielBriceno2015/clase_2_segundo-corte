@@ -85,7 +85,7 @@ Figura 2.  sistemas acoplados
  
  📚 Hallar la funcion de transferencia 
 
-![Logo](https://www.researchgate.net/publication/327929276/figure/fig4/AS:698486949416961@1543543674067/Figura-113-Sistema-masa-resorte-amortiguador.ppm)
+![Logo](https://virtual.cuautitlan.unam.mx/intar/ime/wp-content/uploads/sites/15/2021/06/Sist2Orden.jpg)
 
 Figura 3. sistema masa resorte amortiguador amortiguador
 
@@ -104,9 +104,8 @@ $m_2 \ddot{x}_2 + b_2 \dot{x}_2 + k_2 x_2 - b_2 \dot{x}_1 - k_2 x_1 = 0$
 
 El modelamiento de sistemas acoplados y verticales permite analizar cómo interactúan múltiples componentes mecánicos, considerando fuerzas como resortes, amortiguadores y gravedad. A través de ecuaciones diferenciales y técnicas como la transformada de Laplace, se puede predecir y controlar el comportamiento dinámico del sistema. Esta herramienta es clave en el diseño de estructuras, máquinas y sistemas de control.
 
-
-
  ## 7. Referencias
 
 
  
+
