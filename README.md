@@ -117,7 +117,13 @@ El modelamiento de sistemas acoplados y verticales permite analizar cómo intera
  ## 7. Referencias
 
 
+  
+Universidad del País Vasco. (s.f.). Capítulo 3: El modelo keynesiano I. OpenCourseWare UPV/EHU. Recuperado el 13 de abril de 2025, de https://ocw.ehu.eus/file.php/83/cap31_html/capitulo-3.html
+
+carakenio73. "Dinámica de un sistema masa-resorte-amortiguador." dademuchconnection, 18 de julio de 2017, https://dademuchconnection.wordpress.com/2017/07/18/dinamica-de-un-sistema-masa-resorte-amortiguador/.
+
  
+
 
 
  
